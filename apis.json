@@ -1,0 +1,44 @@
+{
+    "name": "LucyBot",
+    "description": "<p>At LucyBot, we believe APIs should be easy. We help API providers build developer portals to show off their API's functionality, automatically generating sample code in several different programming languages and frameworks. This increases API adoption, expands usage among existing users, and alleviates the burden of customer support.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/LucyPNG.png",
+    "tags": [
+        "api service provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/lucybot\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "LucyBot",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/LucyPNG.png",
+            "humanURL": "https:\/\/lucybot.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/lucybot-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/lucybot"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/LucyBot_API"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/lucybot.com\/"
+        }
+    ]
+}
